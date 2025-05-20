@@ -66,12 +66,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 11,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 9,
@@ -90,12 +86,11 @@
               "Title": "DcdIndex.cshtml",
               "DocumentMoniker": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\dcdLesson4\\Views\\DcdBook\\DcdIndex.cshtml",
               "RelativeDocumentMoniker": "Views\\DcdBook\\DcdIndex.cshtml",
-              "ToolTip": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\dcdLesson4\\Views\\DcdBook\\DcdIndex.cshtml*",
-              "RelativeToolTip": "Views\\DcdBook\\DcdIndex.cshtml*",
+              "ToolTip": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\dcdLesson4\\Views\\DcdBook\\DcdIndex.cshtml",
+              "RelativeToolTip": "Views\\DcdBook\\DcdIndex.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-13T03:24:31.025Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T03:24:31.025Z"
             },
             {
               "$type": "Document",
@@ -151,12 +146,11 @@
               "Title": "Book.cs",
               "DocumentMoniker": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\dcdLesson4\\Models\\Book.cs",
               "RelativeDocumentMoniker": "Models\\Book.cs",
-              "ToolTip": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\dcdLesson4\\Models\\Book.cs*",
-              "RelativeToolTip": "Models\\Book.cs*",
+              "ToolTip": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\dcdLesson4\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T03:06:29.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T03:06:29.678Z"
             },
             {
               "$type": "Document",
@@ -212,9 +206,9 @@
               "Title": "DcdHomeController.cs",
               "DocumentMoniker": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\dcdLesson4\\Controllers\\DcdHomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\DcdHomeController.cs",
-              "ToolTip": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\dcdLesson4\\Controllers\\DcdHomeController.cs*",
-              "RelativeToolTip": "Controllers\\DcdHomeController.cs*",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBYAAAAaAAAAAAAAAA==",
+              "ToolTip": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\dcdLesson4\\Controllers\\DcdHomeController.cs",
+              "RelativeToolTip": "Controllers\\DcdHomeController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBkAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-13T01:37:18.86Z",
               "EditorCaption": ""
@@ -242,6 +236,10 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-13T01:34:10.223Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

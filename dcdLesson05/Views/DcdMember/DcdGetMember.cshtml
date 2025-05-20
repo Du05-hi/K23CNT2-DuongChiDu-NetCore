@@ -1,0 +1,18 @@
+﻿@{
+    ViewData["Title"] = "Thông tin member";
+    var dcdMember = ViewBag.dcdMember as dcdLesson05.Models.DataModels.DcdMember;
+
+}
+
+
+
+<div class="alert alert-danger">
+    <h1>Thông tin member</h1>
+    <hr />
+    <p>Member Id: @dcdMember.DcdMemberId</p>
+    <p>UserName:@dcdMember.DcdUserName</p>
+    <p>FullName: @dcdMember.DcdFullName</p>
+    <p>Password:  @dcdMember.DcdPassword </p>
+    <p>Email:  @dcdMember.DcdEmail </p>
+</div>
+
