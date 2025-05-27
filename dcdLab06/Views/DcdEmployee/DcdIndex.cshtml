@@ -1,0 +1,53 @@
+﻿@model IEnumerable<dcdLab06.Models.DcdEmployee>
+@{
+    ViewData["Title"] = "Danh sách nhân viên";
+}
+<div class="container mt-4">
+    <div class="d-flex justify-content-between align-items-center">
+		<h2>Danh sách nhân viên</h2>
+		<a href="/DcdEmployee/DcdCreate" class="btn btn-primary">Thêm mới</a>
+        
+    </div>
+   
+    <table class="table table-bordered table-striped mt-3">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Tên</th>
+                <th>Ngày sinh</th>
+                <th>Email</th>
+                <th>Điện thoại</th>
+                <th>Lương</th>
+                <th>Trạng thái</th>
+                <th>Hành động</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var dcdEmp in Model)
+            {
+                <tr>
+                    <td class="text-center">@dcdEmp.DcdId</td>
+                    <td>@dcdEmp.DcdName</td>
+                    <td>@dcdEmp.DcdBirthday.ToString("dd/mm/yyyy")</td>
+                    <td>@dcdEmp.DcdEmail</td>
+                    <td>@dcdEmp.DcdPhone</td>
+                    <td class="text-end">@dcdEmp.DcdSalary.ToString("N0")</td>
+                    <td class="text-center">
+                        @if (dcdEmp.DcdStatus)
+                        {
+                            <span class="badge bg-success">Dang Lam</span>
+                        }
+                        else
+                        {
+                            <span class="badge bg-secondary">Nghi viec</span>
+                        }
+                    </td>
+                    <td>
+                        <a class="btn btn-warning" asp-action="DcdEdit" asp-route-id="@dcdEmp.DcdId">Sửa</a> |
+                        <a class="btn btn-danger" asp-action="DcdDelete" asp-route-id="@dcdEmp.DcdId">Xóa</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
