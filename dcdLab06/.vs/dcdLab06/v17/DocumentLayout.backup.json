@@ -58,12 +58,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -74,8 +70,7 @@
               "RelativeToolTip": "Views\\DcdEmployee\\DcdEdit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-27T04:10:21.142Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T04:10:21.142Z"
             },
             {
               "$type": "Document",
@@ -87,8 +82,7 @@
               "RelativeToolTip": "Views\\DcdEmployee\\DcdCreate.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-27T03:58:36.847Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T03:58:36.847Z"
             },
             {
               "$type": "Document",
@@ -100,8 +94,7 @@
               "RelativeToolTip": "Views\\DcdEmployee\\DcdIndex.cshtml",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAAC4AAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-27T03:18:52.025Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T03:18:52.025Z"
             },
             {
               "$type": "Document",
@@ -111,7 +104,7 @@
               "RelativeDocumentMoniker": "Controllers\\DcdEmployeeController.cs",
               "ToolTip": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\dcdLab06\\Controllers\\DcdEmployeeController.cs",
               "RelativeToolTip": "Controllers\\DcdEmployeeController.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAowDYAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAADgAAAAAAAAAAAAswD4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T03:03:28.163Z",
               "EditorCaption": ""
@@ -126,8 +119,7 @@
               "RelativeToolTip": "Models\\DcdEmployee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T02:58:16.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T02:58:16.512Z"
             },
             {
               "$type": "Document",
@@ -151,8 +143,7 @@
               "RelativeToolTip": "Views\\DcdHome\\DcdAbout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-27T02:36:33.61Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T02:36:33.61Z"
             },
             {
               "$type": "Document",
@@ -188,8 +179,7 @@
               "RelativeToolTip": "Controllers\\DcdHomeController.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAzwBQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T01:27:25.137Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T01:27:25.137Z"
             },
             {
               "$type": "Document",
@@ -214,6 +204,10 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-27T01:25:18.913Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

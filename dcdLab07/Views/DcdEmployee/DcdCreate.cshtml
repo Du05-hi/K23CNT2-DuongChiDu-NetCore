@@ -1,0 +1,60 @@
+﻿@model dcdLab07.Models.DcdEmployee
+
+@{
+    ViewData["Title"] = "Them Moi Nhan Vien";
+}
+
+<h1>Them Moi Nhan Vien</h1>
+
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="DcdCreate">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="DcdId" class="control-label"></label>
+                <input asp-for="DcdId" class="form-control" />
+                <span asp-validation-for="DcdId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DcdName" class="control-label"></label>
+                <input asp-for="DcdName" class="form-control" />
+                <span asp-validation-for="DcdName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DcdBirthDay" class="control-label"></label>
+                <input asp-for="DcdBirthDay" class="form-control" />
+                <span asp-validation-for="DcdBirthDay" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DcdEmail" class="control-label"></label>
+                <input asp-for="DcdEmail" class="form-control" />
+                <span asp-validation-for="DcdEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DcdPhone" class="control-label"></label>
+                <input asp-for="DcdPhone" class="form-control" />
+                <span asp-validation-for="DcdPhone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DcdSalary" class="control-label"></label>
+                <input asp-for="DcdSalary" class="form-control" />
+                <span asp-validation-for="DcdSalary" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="DcdStatus" /> @Html.DisplayNameFor(model => model.DcdStatus)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="DcdIndex">Back to List</a>
+</div>
+
