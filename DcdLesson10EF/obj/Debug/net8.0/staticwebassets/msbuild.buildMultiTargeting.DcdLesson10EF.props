@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DcdLesson10EF.props" />
+</Project>

@@ -1,0 +1,54 @@
+﻿@model IEnumerable<DcdLesson10EF.Models.Cate>
+
+@{
+    ViewData["Title"] = "Danh Muc Loai";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<p>
+    <a asp-action="DcdCreate" class="btn btn-primary">Them Moi</a>
+</p>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CateId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CateName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CateStatus)
+            </th>
+            <th>Chuc Nang</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model) {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CateId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CateName)
+                </td>
+                <td>
+                    @if (item.CateStatus == true)
+                    {
+                        <text>Hien Thi</text>
+                    }
+                    else
+                    {
+                        <text>Tam Khoa</text>
+                    }
+                </td>
+            <td>
+                <a asp-action="DcdEdit" asp-route-dcdid="@item.CateId">Edit</a> |
+                    <a asp-action="DcdDetails" asp-route-dcdid="@item.CateId">Details</a> |
+                    <a asp-action="DcdDelete" asp-route-dcdid="@item.CateId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

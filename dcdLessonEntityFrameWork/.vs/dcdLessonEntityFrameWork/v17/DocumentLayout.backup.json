@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\dcdLessonEntityFrameWork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDA1D74-AB6B-4582-9D82-1CD794D47C09}|dcdLessonEntityFrameWork.csproj|d:\\k23cnt2-duongchidu-netcore\\k23cnt2-duongchidu-netcore\\dcdlessonentityframework\\views\\shared\\dcdlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFDA1D74-AB6B-4582-9D82-1CD794D47C09}|dcdLessonEntityFrameWork.csproj|solutionrelative:views\\shared\\dcdlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDA1D74-AB6B-4582-9D82-1CD794D47C09}|dcdLessonEntityFrameWork.csproj|d:\\k23cnt2-duongchidu-netcore\\k23cnt2-duongchidu-netcore\\dcdlessonentityframework\\views\\shared\\_dcdnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFDA1D74-AB6B-4582-9D82-1CD794D47C09}|dcdLessonEntityFrameWork.csproj|solutionrelative:views\\shared\\_dcdnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDA1D74-AB6B-4582-9D82-1CD794D47C09}|dcdLessonEntityFrameWork.csproj|d:\\k23cnt2-duongchidu-netcore\\k23cnt2-duongchidu-netcore\\dcdlessonentityframework\\controllers\\dcdhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFDA1D74-AB6B-4582-9D82-1CD794D47C09}|dcdLessonEntityFrameWork.csproj|solutionrelative:controllers\\dcdhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDA1D74-AB6B-4582-9D82-1CD794D47C09}|dcdLessonEntityFrameWork.csproj|d:\\k23cnt2-duongchidu-netcore\\k23cnt2-duongchidu-netcore\\dcdlessonentityframework\\views\\dcdhome\\dcdabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFDA1D74-AB6B-4582-9D82-1CD794D47C09}|dcdLessonEntityFrameWork.csproj|solutionrelative:views\\dcdhome\\dcdabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDA1D74-AB6B-4582-9D82-1CD794D47C09}|dcdLessonEntityFrameWork.csproj|d:\\k23cnt2-duongchidu-netcore\\k23cnt2-duongchidu-netcore\\dcdlessonentityframework\\views\\dcdhome\\dcdindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFDA1D74-AB6B-4582-9D82-1CD794D47C09}|dcdLessonEntityFrameWork.csproj|solutionrelative:views\\dcdhome\\dcdindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDA1D74-AB6B-4582-9D82-1CD794D47C09}|dcdLessonEntityFrameWork.csproj|d:\\k23cnt2-duongchidu-netcore\\k23cnt2-duongchidu-netcore\\dcdlessonentityframework\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFDA1D74-AB6B-4582-9D82-1CD794D47C09}|dcdLessonEntityFrameWork.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDA1D74-AB6B-4582-9D82-1CD794D47C09}|dcdLessonEntityFrameWork.csproj|d:\\k23cnt2-duongchidu-netcore\\k23cnt2-duongchidu-netcore\\dcdlessonentityframework\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AFDA1D74-AB6B-4582-9D82-1CD794D47C09}|dcdLessonEntityFrameWork.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDA1D74-AB6B-4582-9D82-1CD794D47C09}|dcdLessonEntityFrameWork.csproj|d:\\k23cnt2-duongchidu-netcore\\k23cnt2-duongchidu-netcore\\dcdlessonentityframework\\views\\shared\\dcderror.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFDA1D74-AB6B-4582-9D82-1CD794D47C09}|dcdLessonEntityFrameWork.csproj|solutionrelative:views\\shared\\dcderror.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDA1D74-AB6B-4582-9D82-1CD794D47C09}|dcdLessonEntityFrameWork.csproj|d:\\k23cnt2-duongchidu-netcore\\k23cnt2-duongchidu-netcore\\dcdlessonentityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFDA1D74-AB6B-4582-9D82-1CD794D47C09}|dcdLessonEntityFrameWork.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDA1D74-AB6B-4582-9D82-1CD794D47C09}|dcdLessonEntityFrameWork.csproj|d:\\k23cnt2-duongchidu-netcore\\k23cnt2-duongchidu-netcore\\dcdlessonentityframework\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFDA1D74-AB6B-4582-9D82-1CD794D47C09}|dcdLessonEntityFrameWork.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDA1D74-AB6B-4582-9D82-1CD794D47C09}|dcdLessonEntityFrameWork.csproj|d:\\k23cnt2-duongchidu-netcore\\k23cnt2-duongchidu-netcore\\dcdlessonentityframework\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFDA1D74-AB6B-4582-9D82-1CD794D47C09}|dcdLessonEntityFrameWork.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDA1D74-AB6B-4582-9D82-1CD794D47C09}|dcdLessonEntityFrameWork.csproj|d:\\k23cnt2-duongchidu-netcore\\k23cnt2-duongchidu-netcore\\dcdlessonentityframework\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFDA1D74-AB6B-4582-9D82-1CD794D47C09}|dcdLessonEntityFrameWork.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_DcdNavBar.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\dcdLessonEntityFrameWork\\Views\\Shared\\_DcdNavBar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_DcdNavBar.cshtml",
+              "ToolTip": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\dcdLessonEntityFrameWork\\Views\\Shared\\_DcdNavBar.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_DcdNavBar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T02:30:27.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DcdAbout.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\dcdLessonEntityFrameWork\\Views\\DcdHome\\DcdAbout.cshtml",
+              "RelativeDocumentMoniker": "Views\\DcdHome\\DcdAbout.cshtml",
+              "ToolTip": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\dcdLessonEntityFrameWork\\Views\\DcdHome\\DcdAbout.cshtml",
+              "RelativeToolTip": "Views\\DcdHome\\DcdAbout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T02:24:32.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\dcdLessonEntityFrameWork\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\dcdLessonEntityFrameWork\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-16T02:22:11.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\dcdLessonEntityFrameWork\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\dcdLessonEntityFrameWork\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T01:58:05.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\dcdLessonEntityFrameWork\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\dcdLessonEntityFrameWork\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T01:56:26.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DcdError.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\dcdLessonEntityFrameWork\\Views\\Shared\\DcdError.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\DcdError.cshtml",
+              "ToolTip": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\dcdLessonEntityFrameWork\\Views\\Shared\\DcdError.cshtml",
+              "RelativeToolTip": "Views\\Shared\\DcdError.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T01:54:13.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\dcdLessonEntityFrameWork\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\dcdLessonEntityFrameWork\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwBgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T01:48:57.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DcdLayout.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\dcdLessonEntityFrameWork\\Views\\Shared\\DcdLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\DcdLayout.cshtml",
+              "ToolTip": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\dcdLessonEntityFrameWork\\Views\\Shared\\DcdLayout.cshtml*",
+              "RelativeToolTip": "Views\\Shared\\DcdLayout.cshtml*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T01:46:48.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\dcdLessonEntityFrameWork\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\dcdLessonEntityFrameWork\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T01:46:46.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DcdIndex.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\dcdLessonEntityFrameWork\\Views\\DcdHome\\DcdIndex.cshtml",
+              "RelativeDocumentMoniker": "Views\\DcdHome\\DcdIndex.cshtml",
+              "ToolTip": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\dcdLessonEntityFrameWork\\Views\\DcdHome\\DcdIndex.cshtml",
+              "RelativeToolTip": "Views\\DcdHome\\DcdIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T01:42:29.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DcdHomeController.cs",
+              "DocumentMoniker": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\dcdLessonEntityFrameWork\\Controllers\\DcdHomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DcdHomeController.cs",
+              "ToolTip": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\dcdLessonEntityFrameWork\\Controllers\\DcdHomeController.cs",
+              "RelativeToolTip": "Controllers\\DcdHomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T01:41:05.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\dcdLessonEntityFrameWork\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\dcdLessonEntityFrameWork\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T01:33:30.313Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

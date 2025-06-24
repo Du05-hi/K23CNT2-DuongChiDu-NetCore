@@ -1,0 +1,53 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = dcdLessonEntityFrameWork
+build_property.RootNamespace = dcdLessonEntityFrameWork
+build_property.ProjectDir = D:\K23CNT2-DuongChiDu-NetCore\K23CNT2-DuongChiDu-NetCore\dcdLessonEntityFrameWork\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\K23CNT2-DuongChiDu-NetCore\K23CNT2-DuongChiDu-NetCore\dcdLessonEntityFrameWork
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/K23CNT2-DuongChiDu-NetCore/K23CNT2-DuongChiDu-NetCore/dcdLessonEntityFrameWork/Views/DcdHome/DcdAbout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGNkSG9tZVxEY2RBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K23CNT2-DuongChiDu-NetCore/K23CNT2-DuongChiDu-NetCore/dcdLessonEntityFrameWork/Views/DcdHome/DcdIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGNkSG9tZVxEY2RJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K23CNT2-DuongChiDu-NetCore/K23CNT2-DuongChiDu-NetCore/dcdLessonEntityFrameWork/Views/Shared/DcdError.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXERjZEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K23CNT2-DuongChiDu-NetCore/K23CNT2-DuongChiDu-NetCore/dcdLessonEntityFrameWork/Views/Shared/_DcdNavBar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9EY2ROYXZCYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K23CNT2-DuongChiDu-NetCore/K23CNT2-DuongChiDu-NetCore/dcdLessonEntityFrameWork/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K23CNT2-DuongChiDu-NetCore/K23CNT2-DuongChiDu-NetCore/dcdLessonEntityFrameWork/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K23CNT2-DuongChiDu-NetCore/K23CNT2-DuongChiDu-NetCore/dcdLessonEntityFrameWork/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K23CNT2-DuongChiDu-NetCore/K23CNT2-DuongChiDu-NetCore/dcdLessonEntityFrameWork/Views/Shared/DcdLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXERjZExheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-uzm6b0s33a
