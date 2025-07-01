@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\DcdLesson10EF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F0D64C3-4517-4BD0-AD79-8C3FF9648CEA}|DcdLesson10EF.csproj|d:\\k23cnt2-duongchidu-netcore\\k23cnt2-duongchidu-netcore\\dcdlesson10ef\\views\\dcdcates\\dcddelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8F0D64C3-4517-4BD0-AD79-8C3FF9648CEA}|DcdLesson10EF.csproj|solutionrelative:views\\dcdcates\\dcddelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8F0D64C3-4517-4BD0-AD79-8C3FF9648CEA}|DcdLesson10EF.csproj|d:\\k23cnt2-duongchidu-netcore\\k23cnt2-duongchidu-netcore\\dcdlesson10ef\\views\\dcdcates\\dcdcdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F0D64C3-4517-4BD0-AD79-8C3FF9648CEA}|DcdLesson10EF.csproj|solutionrelative:views\\dcdcates\\dcdcdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8F0D64C3-4517-4BD0-AD79-8C3FF9648CEA}|DcdLesson10EF.csproj|d:\\k23cnt2-duongchidu-netcore\\k23cnt2-duongchidu-netcore\\dcdlesson10ef\\controllers\\dcdcatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F0D64C3-4517-4BD0-AD79-8C3FF9648CEA}|DcdLesson10EF.csproj|solutionrelative:controllers\\dcdcatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F0D64C3-4517-4BD0-AD79-8C3FF9648CEA}|DcdLesson10EF.csproj|d:\\k23cnt2-duongchidu-netcore\\k23cnt2-duongchidu-netcore\\dcdlesson10ef\\views\\dcdcates\\dcdcdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8F0D64C3-4517-4BD0-AD79-8C3FF9648CEA}|DcdLesson10EF.csproj|solutionrelative:views\\dcdcates\\dcdcdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8F0D64C3-4517-4BD0-AD79-8C3FF9648CEA}|DcdLesson10EF.csproj|d:\\k23cnt2-duongchidu-netcore\\k23cnt2-duongchidu-netcore\\dcdlesson10ef\\views\\dcdcates\\dcddelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F0D64C3-4517-4BD0-AD79-8C3FF9648CEA}|DcdLesson10EF.csproj|solutionrelative:views\\dcdcates\\dcddelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8F0D64C3-4517-4BD0-AD79-8C3FF9648CEA}|DcdLesson10EF.csproj|d:\\k23cnt2-duongchidu-netcore\\k23cnt2-duongchidu-netcore\\dcdlesson10ef\\views\\dcdcates\\dcdedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -74,21 +74,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DcdDelete.cshtml",
-              "DocumentMoniker": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\DcdLesson10EF\\Views\\DcdCates\\DcdDelete.cshtml",
-              "RelativeDocumentMoniker": "Views\\DcdCates\\DcdDelete.cshtml",
-              "ToolTip": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\DcdLesson10EF\\Views\\DcdCates\\DcdDelete.cshtml*",
-              "RelativeToolTip": "Views\\DcdCates\\DcdDelete.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-24T08:12:40.659Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
@@ -96,12 +83,24 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "DcdDelete.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\DcdLesson10EF\\Views\\DcdCates\\DcdDelete.cshtml",
+              "RelativeDocumentMoniker": "Views\\DcdCates\\DcdDelete.cshtml",
+              "ToolTip": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\DcdLesson10EF\\Views\\DcdCates\\DcdDelete.cshtml",
+              "RelativeToolTip": "Views\\DcdCates\\DcdDelete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T08:12:40.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "DcdcDetails.cshtml",
               "DocumentMoniker": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\DcdLesson10EF\\Views\\DcdCates\\DcdcDetails.cshtml",
               "RelativeDocumentMoniker": "Views\\DcdCates\\DcdcDetails.cshtml",
-              "ToolTip": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\DcdLesson10EF\\Views\\DcdCates\\DcdcDetails.cshtml*",
-              "RelativeToolTip": "Views\\DcdCates\\DcdcDetails.cshtml*",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAAmAAAAAAAAAA==",
+              "ToolTip": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\DcdLesson10EF\\Views\\DcdCates\\DcdcDetails.cshtml",
+              "RelativeToolTip": "Views\\DcdCates\\DcdcDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-24T08:03:17.321Z",
               "EditorCaption": ""
@@ -116,8 +115,7 @@
               "RelativeToolTip": "Views\\DcdCates\\DcdEdit.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAYwC4AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-24T07:49:57.865Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T07:49:57.865Z"
             },
             {
               "$type": "Document",
@@ -129,8 +127,7 @@
               "RelativeToolTip": "Views\\DcdCates\\DcdCreate.cshtml",
               "ViewState": "AgIAABMAAAAAAAAAAAAYwDAAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-24T07:36:22.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T07:36:22.461Z"
             },
             {
               "$type": "Document",
@@ -142,8 +139,7 @@
               "RelativeToolTip": "Views\\DcdCates\\DcdIndex.cshtml",
               "ViewState": "AgIAABsAAAAAAAAAAAAAADAAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-24T04:24:15.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T04:24:15.461Z"
             },
             {
               "$type": "Document",
@@ -151,9 +147,9 @@
               "Title": "DcdCatesController.cs",
               "DocumentMoniker": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\DcdLesson10EF\\Controllers\\DcdCatesController.cs",
               "RelativeDocumentMoniker": "Controllers\\DcdCatesController.cs",
-              "ToolTip": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\DcdLesson10EF\\Controllers\\DcdCatesController.cs*",
-              "RelativeToolTip": "Controllers\\DcdCatesController.cs*",
-              "ViewState": "AgIAAH8AAAAAAAAAAADwv5gAAAA3AAAAAAAAAA==",
+              "ToolTip": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\DcdLesson10EF\\Controllers\\DcdCatesController.cs",
+              "RelativeToolTip": "Controllers\\DcdCatesController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-24T04:17:16.167Z",
               "EditorCaption": ""
@@ -168,8 +164,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-24T03:32:06.336Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T03:32:06.336Z"
             },
             {
               "$type": "Document",
@@ -181,8 +176,7 @@
               "RelativeToolTip": "Models\\DcdLesson10DbContext.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T03:29:50.115Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T03:29:50.115Z"
             },
             {
               "$type": "Document",
@@ -194,8 +188,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T02:02:29.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T02:02:29.954Z"
             },
             {
               "$type": "Document",
@@ -207,8 +200,7 @@
               "RelativeToolTip": "Views\\DcdHome\\DcdAbout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-24T01:59:48.519Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T01:59:48.519Z"
             },
             {
               "$type": "Document",
@@ -220,8 +212,7 @@
               "RelativeToolTip": "Views\\DcdHome\\DcdIndex.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-24T01:59:05.414Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T01:59:05.414Z"
             },
             {
               "$type": "Document",
@@ -233,8 +224,7 @@
               "RelativeToolTip": "Controllers\\DcdHomeController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T01:57:34.178Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T01:57:34.178Z"
             },
             {
               "$type": "Document",
@@ -246,8 +236,7 @@
               "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-24T01:56:23.364Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T01:56:23.364Z"
             },
             {
               "$type": "Document",
@@ -259,8 +248,7 @@
               "RelativeToolTip": "Views\\Shared\\DcdNavBar.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-24T01:54:17.003Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T01:54:17.003Z"
             },
             {
               "$type": "Document",
@@ -272,8 +260,7 @@
               "RelativeToolTip": "Views\\Shared\\_DcdLayout.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAYwBEAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-24T01:52:14.33Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T01:52:14.33Z"
             },
             {
               "$type": "Document",
@@ -285,8 +272,7 @@
               "RelativeToolTip": "Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-24T01:51:43.473Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T01:51:43.473Z"
             }
           ]
         }

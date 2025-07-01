@@ -1,0 +1,66 @@
+﻿@model IEnumerable<DuongChiDu_2310900022.Models.DcdEmployee>
+
+@{
+    ViewData["Title"] = "Danh Muc";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<p>
+    <a asp-action="DcdCreate" class="btn btn-primary">Them Moi</a>
+</p>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.DcdEmpId)
+            </th><
+            <th>
+                @Html.DisplayNameFor(model => model.DcdEmpName)
+            </th><
+            <th>
+                @Html.DisplayNameFor(model => model.DcdEmpLevel)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DcdEmpStartDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DcdEmpStatus)
+            </th>
+            <th>Chuc Nang</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model) {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DcdEmpId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DcdEmpName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DcdEmpLevel)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DcdEmpStartDate)
+                </td>
+                <td>
+                    @if (item.DcdEmpStatus == true)
+                    {
+                        <text>Hien Thi</text>
+                    }
+                    else
+                    {
+                        <text>Tam Khoa</text>
+                    }
+                </td>
+            <td>
+                <a asp-action="DcdEdit" asp-route-dcdid="@item.DcdEmpId">Edit</a> |
+                    <a asp-action="DcdDetails" asp-route-dcdid="@item.DcdEmpId">Details</a> |
+                    <a asp-action="DcdDelete" asp-route-dcdid="@item.DcdEmpId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

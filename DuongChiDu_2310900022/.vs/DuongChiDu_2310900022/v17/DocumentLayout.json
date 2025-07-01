@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\DuongChiDu_2310900022\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F22547FF-7102-42A8-9D90-A62052CDCA50}|DuongChiDu_2310900022.csproj|d:\\k23cnt2-duongchidu-netcore\\k23cnt2-duongchidu-netcore\\duongchidu_2310900022\\views\\dcdemployees\\dcddelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F22547FF-7102-42A8-9D90-A62052CDCA50}|DuongChiDu_2310900022.csproj|solutionrelative:views\\dcdemployees\\dcddelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22547FF-7102-42A8-9D90-A62052CDCA50}|DuongChiDu_2310900022.csproj|d:\\k23cnt2-duongchidu-netcore\\k23cnt2-duongchidu-netcore\\duongchidu_2310900022\\controllers\\dcdemployeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22547FF-7102-42A8-9D90-A62052CDCA50}|DuongChiDu_2310900022.csproj|solutionrelative:controllers\\dcdemployeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22547FF-7102-42A8-9D90-A62052CDCA50}|DuongChiDu_2310900022.csproj|d:\\k23cnt2-duongchidu-netcore\\k23cnt2-duongchidu-netcore\\duongchidu_2310900022\\views\\dcdemployees\\dcddetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F22547FF-7102-42A8-9D90-A62052CDCA50}|DuongChiDu_2310900022.csproj|solutionrelative:views\\dcdemployees\\dcddetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22547FF-7102-42A8-9D90-A62052CDCA50}|DuongChiDu_2310900022.csproj|d:\\k23cnt2-duongchidu-netcore\\k23cnt2-duongchidu-netcore\\duongchidu_2310900022\\views\\dcdemployees\\dcdedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F22547FF-7102-42A8-9D90-A62052CDCA50}|DuongChiDu_2310900022.csproj|solutionrelative:views\\dcdemployees\\dcdedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22547FF-7102-42A8-9D90-A62052CDCA50}|DuongChiDu_2310900022.csproj|d:\\k23cnt2-duongchidu-netcore\\k23cnt2-duongchidu-netcore\\duongchidu_2310900022\\views\\dcdemployees\\dcdcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F22547FF-7102-42A8-9D90-A62052CDCA50}|DuongChiDu_2310900022.csproj|solutionrelative:views\\dcdemployees\\dcdcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22547FF-7102-42A8-9D90-A62052CDCA50}|DuongChiDu_2310900022.csproj|d:\\k23cnt2-duongchidu-netcore\\k23cnt2-duongchidu-netcore\\duongchidu_2310900022\\views\\dcdemployees\\dcdindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F22547FF-7102-42A8-9D90-A62052CDCA50}|DuongChiDu_2310900022.csproj|solutionrelative:views\\dcdemployees\\dcdindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22547FF-7102-42A8-9D90-A62052CDCA50}|DuongChiDu_2310900022.csproj|d:\\k23cnt2-duongchidu-netcore\\k23cnt2-duongchidu-netcore\\duongchidu_2310900022\\views\\dcdhome\\dcdindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F22547FF-7102-42A8-9D90-A62052CDCA50}|DuongChiDu_2310900022.csproj|solutionrelative:views\\dcdhome\\dcdindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22547FF-7102-42A8-9D90-A62052CDCA50}|DuongChiDu_2310900022.csproj|d:\\k23cnt2-duongchidu-netcore\\k23cnt2-duongchidu-netcore\\duongchidu_2310900022\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22547FF-7102-42A8-9D90-A62052CDCA50}|DuongChiDu_2310900022.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22547FF-7102-42A8-9D90-A62052CDCA50}|DuongChiDu_2310900022.csproj|d:\\k23cnt2-duongchidu-netcore\\k23cnt2-duongchidu-netcore\\duongchidu_2310900022\\views\\shared\\dcderror.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F22547FF-7102-42A8-9D90-A62052CDCA50}|DuongChiDu_2310900022.csproj|solutionrelative:views\\shared\\dcderror.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22547FF-7102-42A8-9D90-A62052CDCA50}|DuongChiDu_2310900022.csproj|d:\\k23cnt2-duongchidu-netcore\\k23cnt2-duongchidu-netcore\\duongchidu_2310900022\\views\\shared\\dcdnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F22547FF-7102-42A8-9D90-A62052CDCA50}|DuongChiDu_2310900022.csproj|solutionrelative:views\\shared\\dcdnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22547FF-7102-42A8-9D90-A62052CDCA50}|DuongChiDu_2310900022.csproj|d:\\k23cnt2-duongchidu-netcore\\k23cnt2-duongchidu-netcore\\duongchidu_2310900022\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F22547FF-7102-42A8-9D90-A62052CDCA50}|DuongChiDu_2310900022.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22547FF-7102-42A8-9D90-A62052CDCA50}|DuongChiDu_2310900022.csproj|d:\\k23cnt2-duongchidu-netcore\\k23cnt2-duongchidu-netcore\\duongchidu_2310900022\\models\\duongchidu2310900022context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22547FF-7102-42A8-9D90-A62052CDCA50}|DuongChiDu_2310900022.csproj|solutionrelative:models\\duongchidu2310900022context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DcdDelete.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\DuongChiDu_2310900022\\Views\\DcdEmployees\\DcdDelete.cshtml",
+              "RelativeDocumentMoniker": "Views\\DcdEmployees\\DcdDelete.cshtml",
+              "ToolTip": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\DuongChiDu_2310900022\\Views\\DcdEmployees\\DcdDelete.cshtml",
+              "RelativeToolTip": "Views\\DcdEmployees\\DcdDelete.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-01T15:14:45.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DcdDetails.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\DuongChiDu_2310900022\\Views\\DcdEmployees\\DcdDetails.cshtml",
+              "RelativeDocumentMoniker": "Views\\DcdEmployees\\DcdDetails.cshtml",
+              "ToolTip": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\DuongChiDu_2310900022\\Views\\DcdEmployees\\DcdDetails.cshtml",
+              "RelativeToolTip": "Views\\DcdEmployees\\DcdDetails.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-01T14:57:35.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DcdEdit.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\DuongChiDu_2310900022\\Views\\DcdEmployees\\DcdEdit.cshtml",
+              "RelativeDocumentMoniker": "Views\\DcdEmployees\\DcdEdit.cshtml",
+              "ToolTip": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\DuongChiDu_2310900022\\Views\\DcdEmployees\\DcdEdit.cshtml",
+              "RelativeToolTip": "Views\\DcdEmployees\\DcdEdit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-01T14:49:39.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DcdCreate.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\DuongChiDu_2310900022\\Views\\DcdEmployees\\DcdCreate.cshtml",
+              "RelativeDocumentMoniker": "Views\\DcdEmployees\\DcdCreate.cshtml",
+              "ToolTip": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\DuongChiDu_2310900022\\Views\\DcdEmployees\\DcdCreate.cshtml",
+              "RelativeToolTip": "Views\\DcdEmployees\\DcdCreate.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-01T14:37:00.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DcdIndex.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\DuongChiDu_2310900022\\Views\\DcdHome\\DcdIndex.cshtml",
+              "RelativeDocumentMoniker": "Views\\DcdHome\\DcdIndex.cshtml",
+              "ToolTip": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\DuongChiDu_2310900022\\Views\\DcdHome\\DcdIndex.cshtml",
+              "RelativeToolTip": "Views\\DcdHome\\DcdIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-01T14:34:06.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DcdError.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\DuongChiDu_2310900022\\Views\\Shared\\DcdError.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\DcdError.cshtml",
+              "ToolTip": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\DuongChiDu_2310900022\\Views\\Shared\\DcdError.cshtml",
+              "RelativeToolTip": "Views\\Shared\\DcdError.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-01T14:33:45.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DcdIndex.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\DuongChiDu_2310900022\\Views\\DcdEmployees\\DcdIndex.cshtml",
+              "RelativeDocumentMoniker": "Views\\DcdEmployees\\DcdIndex.cshtml",
+              "ToolTip": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\DuongChiDu_2310900022\\Views\\DcdEmployees\\DcdIndex.cshtml",
+              "RelativeToolTip": "Views\\DcdEmployees\\DcdIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-01T14:22:19.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DcdNavBar.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\DuongChiDu_2310900022\\Views\\Shared\\DcdNavBar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\DcdNavBar.cshtml",
+              "ToolTip": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\DuongChiDu_2310900022\\Views\\Shared\\DcdNavBar.cshtml",
+              "RelativeToolTip": "Views\\Shared\\DcdNavBar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-01T14:22:00.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DcdEmployeesController.cs",
+              "DocumentMoniker": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\DuongChiDu_2310900022\\Controllers\\DcdEmployeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DcdEmployeesController.cs",
+              "ToolTip": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\DuongChiDu_2310900022\\Controllers\\DcdEmployeesController.cs",
+              "RelativeToolTip": "Controllers\\DcdEmployeesController.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAwwHYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T14:20:06.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\DuongChiDu_2310900022\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\DuongChiDu_2310900022\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T14:16:35.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\DuongChiDu_2310900022\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\DuongChiDu_2310900022\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-01T14:13:21.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DuongChiDu2310900022Context.cs",
+              "DocumentMoniker": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\DuongChiDu_2310900022\\Models\\DuongChiDu2310900022Context.cs",
+              "RelativeDocumentMoniker": "Models\\DuongChiDu2310900022Context.cs",
+              "ToolTip": "D:\\K23CNT2-DuongChiDu-NetCore\\K23CNT2-DuongChiDu-NetCore\\DuongChiDu_2310900022\\Models\\DuongChiDu2310900022Context.cs",
+              "RelativeToolTip": "Models\\DuongChiDu2310900022Context.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAB8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T13:42:04.354Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
